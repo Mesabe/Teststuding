@@ -12,5 +12,6 @@ public class app {
         test1_2 t2 = new test1_2();
         t.Display();
         t2.name();
+        System.out.println("Fuck life");
     }
 }
